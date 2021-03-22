@@ -8,10 +8,10 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 - The file *[CUHK_info.xlsx](/CUHK_info.xlsx)* (obtained from the above mentioned dataset link) contains the details of each video clip, where we have highlighted (in yellow-color) the *300* video clips used for MPS.
 
 - For this work, we have categorized the 300 video clips into 8 different categories:  
->**cross walk, escalator,  market, mass movement, public walkway, shopping mall, station, and street.**  
+  >**cross walk, escalator,  market, mass movement, public walkway, shopping mall, station, and street.**  
 
 - We also categorize the scenes into:  
->**structured and unstructured**, **indoor and outdoor.**  
+  >**structured and unstructured**, **indoor and outdoor.**  
 
 - The file *[CUHK_300_category_info.xlsx](/CUHK_300_category_info.xlsx)* contains all the category-wise details. The last column in the file can be used as a mapping to the original file *[CUHK_info.xlsx]*
 
