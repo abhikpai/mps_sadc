@@ -16,9 +16,7 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 
 - The file *[CUHK_300_category_info.xlsx](/CUHK_300_category_info.xlsx)* contains all the category-wise details. The last column in this file can be used as a mapping to scenes in the original file *[CUHK_info.xlsx](/CUHK_info.xlsx)*
 
-- For evaluation and comparison of our work with frame-by-frame clustering techniques (CM & CT -refer our paper), we use the frame number mentioned in the column "*GT end frame no.*" of the *[CUHK_300_category_info.xlsx](/CUHK_300_category_info.xlsx)* file.
-
-- For each scene of the dataset, 
+- For evaluation and comparison of our work with frame-by-frame clustering techniques (CM & CT -refer our paper), we use the frame number mentioned in the column "*GT end frame no.*" of the *[CUHK_300_category_info.xlsx](/CUHK_300_category_info.xlsx)* file. 
 
 ### Instructions to run the Code
 
