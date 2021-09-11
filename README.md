@@ -23,8 +23,9 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 ### Instructions to run the Code
 
 - The main file is "sadc.m". Here's an example of how to run it:
-
->[clust_id,gt_id] = sadc(91,20,15);
+```
+[clust_id,gt_id] = sadc(91,20,15);
+```
 
 - Please refer to the code for more details regarding the parameters.
 
