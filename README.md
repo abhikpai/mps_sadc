@@ -22,6 +22,16 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 
 ### Instructions to run the Code
 
+- The main file is "sadc.m". Here's an example of how to run it:
+
+>[clust_id,gt_id] = sadc(91,20,15);
+
+- Please refer to the code for more details regarding the parameters.
+
+- The folders "ground_truth_grDetect" and "CUHKcrowd_dataset_imgTrk" are created only for testing purposes. It contains info. of only 1 scene (scene no. 91 of the CUHK dataset).
+
+- Please download the original CUHK dataset to get all the data within these folders.
+
 
 ### Cite
 If you use our code or the scene-wise data we have created, please cite our paper:  
