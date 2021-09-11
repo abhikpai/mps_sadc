@@ -34,4 +34,4 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 
 ### Cite
 If you use our code or the scene-wise data we have created, please cite our paper:  
->A. K. Pai, A. K. Karunakar and U. Raghavendra, [*"Scene-Independent Motion Pattern Segmentation in Crowded Video Scenes Using Spatio-Angular Density-Based Clustering"]*(https://ieeexplore.ieee.org/document/9162634) in IEEE Access, vol. 8, pp. 145984-145994, 2020.
+>A. K. Pai, A. K. Karunakar and U. Raghavendra, [*"Scene-Independent Motion Pattern Segmentation in Crowded Video Scenes Using Spatio-Angular Density-Based Clustering"*](https://ieeexplore.ieee.org/document/9162634) in IEEE Access, vol. 8, pp. 145984-145994, 2020.
