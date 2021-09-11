@@ -22,7 +22,7 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 
 ### Instructions to run the Code
 
-- The main file is "sadc.m". Here's an example of how to run it:
+- Just run the file named "sadc.m". Here's an example of how to run it:
 ```
 [clust_id,gt_id] = sadc(91,20,15); % syntax : sadc(scene_no,eps_threshold,aplha_threshold)
 ```
