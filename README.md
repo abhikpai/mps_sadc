@@ -18,7 +18,7 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 
 - For evaluation and comparison of our work with frame-by-frame clustering techniques (CM & CT -refer our paper), we use the frame number mentioned in the column "*GT end frame no.*" of the *[CUHK_300_category_info.xlsx](/CUHK_300_category_info.xlsx)* file. 
 
-### Instructions to run the Code
+### Instructions to run the code
 
 - Just run the file named "sadc.m". Here's an example of how to run it:
 ```
