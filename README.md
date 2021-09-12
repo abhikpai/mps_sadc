@@ -27,7 +27,7 @@ https://amandajshao.github.io/projects/CUHKcrowd_files/cuhk_crowd_dataset.htm
 
 - Please refer to the code for more details regarding the parameters.
 
-- The folders "ground_truth_grDetect" and "CUHKcrowd_dataset_imgTrk" (extract the CUHKcrowd_dataset_imgTrk.zip file to get the folder)  are created only for testing purposes. It contains info. of only 1 scene (scene no. 91 of the CUHK dataset).
+- The folders "ground_truth_grDetect" and "CUHKcrowd_dataset_imgTrk" (extract the *CUHKcrowd_dataset_imgTrk.zip* file to get this folder)  are created only for testing purposes. It contains info. of only 1 scene (scene no. 91 of the CUHK dataset).
 
 - Please download the original CUHK dataset to get all the data within these folders.
 
